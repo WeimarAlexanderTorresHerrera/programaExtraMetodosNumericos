@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="programaExtra:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/programaExtra_jar</output-path>
+    <root id="archive" name="programaExtra.jar">
+      <element id="module-output" name="programaExtra" />
+    </root>
+  </artifact>
+</component>
